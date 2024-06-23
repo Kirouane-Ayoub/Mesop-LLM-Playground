@@ -33,8 +33,8 @@ Welcome to the LLM Playground, a powerful and intuitive web app built using Meso
 
 1. Clone the repository:
     ```sh
-    git clone 
-    cd 
+    git clone git@github.com:Kirouane-Ayoub/Mesop-LLM-Playground.git
+    cd Mesop-LLM-Playground
     ```
 
 2. Create and activate a virtual environment:

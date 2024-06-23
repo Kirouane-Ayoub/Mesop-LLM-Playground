@@ -13,7 +13,7 @@ model_mapping = {
 _TEMPERATURE_MIN = 0.0
 _TEMPERATURE_MAX = 2.0
 _TOKEN_LIMIT_MIN = 1
-_TOKEN_LIMIT_MAX = 8192
+_TOKEN_LIMIT_MAX = 1024
 
 
 @me.stateclass

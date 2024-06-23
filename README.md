@@ -33,7 +33,7 @@ Welcome to the LLM Playground, a powerful and intuitive web app built using Meso
 
 1. Clone the repository:
     ```sh
-    git clone git@github.com:Kirouane-Ayoub/Mesop-LLM-Playground.git
+    git clone https://github.com/Kirouane-Ayoub/Mesop-LLM-Playground.git
     cd Mesop-LLM-Playground
     ```
 

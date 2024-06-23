@@ -60,3 +60,6 @@ Welcome to the LLM Playground, a powerful and intuitive web app built using Meso
 ```sh
 mesop app.py
 ```
+![Screenshot from 2024-06-23 11-44-56](https://github.com/Kirouane-Ayoub/Mesop-LLM-Playground/assets/99510125/c83e2cd9-d698-4fa7-9eb1-82ce11b82799)
+![Screenshot from 2024-06-23 11-45-43](https://github.com/Kirouane-Ayoub/Mesop-LLM-Playground/assets/99510125/235d18c5-e23e-40ed-86cf-7ee9d2a4bbec)
+![Screenshot from 2024-06-23 11-45-56](https://github.com/Kirouane-Ayoub/Mesop-LLM-Playground/assets/99510125/b429478e-7fd4-4224-8a8c-8261a9df6b42)
